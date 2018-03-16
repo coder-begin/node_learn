@@ -1,0 +1,22 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "node学习",
+  "main": "buffer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/coder-begin/node_learn.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "shiyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coder-begin/node_learn/issues"
+  },
+  "homepage": "https://github.com/coder-begin/node_learn#readme"
+}
