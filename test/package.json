@@ -1,8 +1,8 @@
 {
-  "name": "learn",
+  "name": "test",
   "version": "1.0.0",
   "description": "node学习",
-  "main": "buffer.js",
+  "main": "test1.js",
   "scripts": {
     "test": "test"
   },
@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/coder-begin/node_learn/issues"
   },
-  "homepage": "https://github.com/coder-begin/node_learn#readme",
-  "dependencies": {
-    "request": "^2.85.0"
-  }
+  "homepage": "https://github.com/coder-begin/node_learn#readme"
 }
